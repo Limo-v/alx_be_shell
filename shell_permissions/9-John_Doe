@@ -1,0 +1,3 @@
+#!/bin/bash
+sudo chown julien:julien hello
+sudo chmod 731 hello
