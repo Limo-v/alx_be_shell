@@ -1,3 +1,2 @@
 #!/bin/bash
-sudo chown julien:julien hello
-sudo chmod 731 hello
+chown julien:julien hello && chmod u=rwx,g=rx,o=wx hello
